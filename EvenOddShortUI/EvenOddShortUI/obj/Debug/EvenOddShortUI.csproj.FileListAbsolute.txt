@@ -1,0 +1,11 @@
+E:\BITM SEIP\Day3\EvenOddShortUI\EvenOddShortUI\bin\Debug\EvenOddShortUI.exe.config
+E:\BITM SEIP\Day3\EvenOddShortUI\EvenOddShortUI\obj\Debug\EvenOddShortUI.Form1.resources
+E:\BITM SEIP\Day3\EvenOddShortUI\EvenOddShortUI\obj\Debug\EvenOddShortUI.Properties.Resources.resources
+E:\BITM SEIP\Day3\EvenOddShortUI\EvenOddShortUI\obj\Debug\EvenOddShortUI.csproj.GenerateResource.Cache
+E:\BITM SEIP\Day3\EvenOddShortUI\EvenOddShortUI\bin\Debug\EvenOddShortUI.exe
+E:\BITM SEIP\Day3\EvenOddShortUI\EvenOddShortUI\bin\Debug\EvenOddShortUI.pdb
+E:\BITM SEIP\Day3\EvenOddShortUI\EvenOddShortUI\obj\Debug\EvenOddShortUI.exe
+E:\BITM SEIP\Day3\EvenOddShortUI\EvenOddShortUI\obj\Debug\EvenOddShortUI.pdb
+G:\Day3\EvenOddShortUI\EvenOddShortUI\bin\Debug\EvenOddShortUI.exe.config
+G:\Day3\EvenOddShortUI\EvenOddShortUI\obj\Debug\EvenOddShortUI.exe
+G:\Day3\EvenOddShortUI\EvenOddShortUI\obj\Debug\EvenOddShortUI.pdb
